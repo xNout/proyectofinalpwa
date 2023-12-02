@@ -1,0 +1,29 @@
+.dialog_window .sbancoform {
+  display: flex;
+  justify-content: flex-start;
+  padding-left: 10px;
+}
+.dialog_window .sbancoform .form-group label {
+  margin-bottom: 2px;
+  font-weight: bold;
+}
+.dialog_window .sbancoform .form-group textarea {
+  resize: none;
+  height: 100px;
+  font-size: 14px;
+}
+.dialog_window .sbancoform .form-group select {
+  background: white;
+}
+.dialog_window .sbancoform .boton_sbmt {
+  display: flex;
+  justify-content: flex-end;
+}
+.dialog_window .sbancoform .boton_sbmt button {
+  width: 150px;
+}
+.dialog_window .sbancoform .boton_sbmt button i {
+  color: white;
+}
+
+/*# sourceMappingURL=sbanco.css.map */

@@ -1,0 +1,62 @@
+.bodycontent .container {
+  height: 100%;
+  overflow-y: scroll;
+}
+
+.modulo_compras {
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+}
+.modulo_compras .opciones {
+  margin-bottom: 5px;
+  font-family: "Itim", cursive;
+}
+.modulo_compras .opciones button i {
+  color: white;
+  font-size: 12px;
+}
+.modulo_compras .tablero .cuerpo_tabla {
+  padding: 0px;
+  height: 350px;
+  max-height: 350px;
+  background: white;
+  border-radius: 5px;
+  box-shadow: 0.5px 0.5px 15px 5px rgba(204, 204, 204, 0.3);
+  overflow: auto;
+}
+.modulo_compras .tablero .cuerpo_tabla table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: center;
+}
+.modulo_compras .tablero .cuerpo_tabla table thead {
+  background: #2C2C2C;
+}
+.modulo_compras .tablero .cuerpo_tabla table thead tr th {
+  height: 35px;
+  font-size: 16px;
+  color: white;
+  font-family: "Itim", cursive;
+  font-weight: 500;
+}
+.modulo_compras .tablero .cuerpo_tabla table tbody {
+  max-height: 500px;
+  font-size: 15px;
+  color: rgba(0, 0, 0, 0.9);
+}
+.modulo_compras .tablero .cuerpo_tabla table tbody tr {
+  border-bottom: 0.2px solid rgba(0, 0, 0, 0.2);
+}
+.modulo_compras .tablero .cuerpo_tabla table tbody tr td {
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 400;
+  border: 0.2px solid rgba(0, 0, 0, 0.2);
+}
+.modulo_compras .tablero .encabezado_tabla table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+/*# sourceMappingURL=compras.css.map */

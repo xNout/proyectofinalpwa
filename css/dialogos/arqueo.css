@@ -1,0 +1,34 @@
+.dialog_window .arqueoform {
+  display: flex;
+  justify-content: center;
+  padding-left: 10px;
+}
+.dialog_window .arqueoform .detalles .titulo {
+  border-bottom: 1px solid rgba(204, 204, 204, 0.5);
+  margin-bottom: 10px;
+}
+.dialog_window .arqueoform .detalles .titulo span {
+  font-weight: bold;
+}
+.dialog_window .arqueoform .detalles .titulo2 span {
+  font-weight: bold;
+}
+.dialog_window .arqueoform .detalles .cuadro {
+  margin-bottom: 5px;
+}
+.dialog_window .arqueoform .detalles .cuadro .inpt input {
+  font-size: 12px;
+}
+.dialog_window .arqueoform .boton_sbmt {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 10px;
+}
+.dialog_window .arqueoform .boton_sbmt button {
+  width: 150px;
+}
+.dialog_window .arqueoform .boton_sbmt button i {
+  color: white;
+}
+
+/*# sourceMappingURL=arqueo.css.map */

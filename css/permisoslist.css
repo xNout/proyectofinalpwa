@@ -1,0 +1,15 @@
+.modulo_obtpermisos {
+  padding: 10px;
+  background: white;
+  border-radius: 5px 1px 5px 1px;
+}
+.modulo_obtpermisos .tabla_permisos {
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.fas {
+  color: white;
+}
+
+/*# sourceMappingURL=permisoslist.css.map */

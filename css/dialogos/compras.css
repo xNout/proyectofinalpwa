@@ -1,0 +1,43 @@
+.dialog_window .acompraform {
+  display: flex;
+  justify-content: flex-start;
+  padding-left: 10px;
+}
+.dialog_window .acompraform .cantidad {
+  padding-left: 0px;
+}
+.dialog_window .acompraform .cantidad input {
+  font-size: 12px;
+}
+.dialog_window .acompraform .Cuadrilla {
+  margin-bottom: 0px;
+}
+.dialog_window .acompraform .Cuadrilla .checbkx {
+  padding-left: 20px;
+}
+.dialog_window .acompraform .form-group label {
+  margin-bottom: 2px;
+  font-weight: bold;
+}
+.dialog_window .acompraform .form-group .input-group select {
+  background: white;
+}
+.dialog_window .acompraform .form-group .input-group .input-group-prepend button {
+  font-size: 12px;
+}
+.dialog_window .acompraform .form-group .input-group .input-group-prepend button i {
+  color: white;
+  font-size: 11px;
+}
+.dialog_window .acompraform .boton_sbmt {
+  display: flex;
+  justify-content: flex-end;
+}
+.dialog_window .acompraform .boton_sbmt button {
+  width: 150px;
+}
+.dialog_window .acompraform .boton_sbmt button i {
+  color: white;
+}
+
+/*# sourceMappingURL=compras.css.map */

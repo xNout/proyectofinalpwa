@@ -1,0 +1,19 @@
+body, html, .pure-g {
+  height: 100%;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+* {
+  font-family: "Source Sans Pro", sans-serif;
+  color: rgba(0, 0, 0, 0.9);
+}
+
+.contenedor {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  background: rgba(204, 204, 204, 0.15);
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=container.css.map */

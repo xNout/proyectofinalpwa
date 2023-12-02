@@ -1,0 +1,68 @@
+.acompraform {
+  display: flex;
+  justify-content: flex-start;
+  padding-left: 10px; }
+  .acompraform .cantidad {
+    padding-left: 0px; }
+    .acompraform .cantidad input {
+      font-size: 12px; }
+  .acompraform .Cuadrilla {
+    margin-bottom: 0px; }
+    .acompraform .Cuadrilla .checbkx {
+      padding-left: 20px; }
+  .acompraform .subtotal {
+    display: block;
+    margin-bottom: 5px; }
+    .acompraform .subtotal .row .form-group {
+      margin-bottom: 0px; }
+  .acompraform .form-group label {
+    margin-bottom: 2px;
+    font-weight: bold; }
+  .acompraform .form-group select {
+    background: white; }
+  .acompraform .form-group .input-group select {
+    background: white; }
+  .acompraform .form-group .input-group .input-group-prepend button {
+    font-size: 12px; }
+    .acompraform .form-group .input-group .input-group-prepend button i {
+      color: white;
+      font-size: 11px; }
+  .acompraform .form-group .titulo {
+    margin-top: 10px;
+    margin-bottom: 10px; }
+    .acompraform .form-group .titulo .anadir button {
+      font-size: 12px; }
+      .acompraform .form-group .titulo .anadir button i {
+        color: white; }
+  .acompraform .form-group .medio_pago {
+    margin-bottom: 8px;
+    display: flex;
+    align-content: flex-end; }
+    .acompraform .form-group .medio_pago .cantidad {
+      padding-right: 0px;
+      margin-top: 3px; }
+    .acompraform .form-group .medio_pago .anadir {
+      display: flex;
+      align-items: flex-start;
+      padding-left: 5px;
+      margin-top: 3px; }
+      .acompraform .form-group .medio_pago .anadir button {
+        font-size: 12px; }
+        .acompraform .form-group .medio_pago .anadir button i {
+          color: white; }
+    .acompraform .form-group .medio_pago .banco_detalles span {
+      font-size: 12px; }
+    .acompraform .form-group .medio_pago .banco_detalles .editar {
+      margin-left: 5px;
+      cursor: pointer;
+      text-decoration: underline;
+      color: #0d6efd; }
+  .acompraform .boton_sbmt {
+    display: flex;
+    justify-content: flex-end; }
+    .acompraform .boton_sbmt button {
+      width: 150px; }
+      .acompraform .boton_sbmt button i {
+        color: white; }
+
+/*# sourceMappingURL=acompra.css.map */

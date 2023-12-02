@@ -1,0 +1,25 @@
+.dialog_window {
+  padding: 0px;
+  border-radius: 5px;
+}
+.dialog_window .header {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 15px;
+}
+.dialog_window .header .texto {
+  padding: 0px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+.dialog_window .header .close_wndw {
+  position: absolute;
+  right: 5px;
+  top: 2px;
+}
+.dialog_window .header .close_wndw i {
+  color: rgba(0, 0, 0, 0.7);
+  cursor: pointer;
+  padding: 5px;
+}
+
+/*# sourceMappingURL=header.css.map */

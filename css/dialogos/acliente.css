@@ -1,0 +1,31 @@
+.dialog_window .aclienteform {
+  display: flex;
+  justify-content: flex-start;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.dialog_window .aclienteform .form-group {
+  margin-bottom: 5px;
+}
+.dialog_window .aclienteform .form-group label {
+  margin-bottom: 2px;
+  font-weight: bold;
+}
+.dialog_window .aclienteform .form-group textarea {
+  resize: none;
+  height: 100px;
+  font-size: 14px;
+}
+.dialog_window .aclienteform .boton_sbmt {
+  margin-top: 10px;
+  display: flex;
+  justify-content: flex-end;
+}
+.dialog_window .aclienteform .boton_sbmt button {
+  width: 150px;
+}
+.dialog_window .aclienteform .boton_sbmt button i {
+  color: white;
+}
+
+/*# sourceMappingURL=acliente.css.map */
